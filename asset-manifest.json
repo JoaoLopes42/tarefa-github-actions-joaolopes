@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/css/main.f855e6bc.css",
-    "main.js": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/js/main.b99792a8.js",
-    "static/js/453.35549df2.chunk.js": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/js/453.35549df2.chunk.js",
-    "static/media/logo.svg": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JoaoLopes42/tarefa-github-actions-joaolopes/index.html",
-    "main.f855e6bc.css.map": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/css/main.f855e6bc.css.map",
-    "main.b99792a8.js.map": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/js/main.b99792a8.js.map",
-    "453.35549df2.chunk.js.map": "/JoaoLopes42/tarefa-github-actions-joaolopes/static/js/453.35549df2.chunk.js.map"
+    "main.css": "/tarefa-github-actions-joaolopes/static/css/main.f855e6bc.css",
+    "main.js": "/tarefa-github-actions-joaolopes/static/js/main.fb0e17b7.js",
+    "static/js/453.35549df2.chunk.js": "/tarefa-github-actions-joaolopes/static/js/453.35549df2.chunk.js",
+    "static/media/logo.svg": "/tarefa-github-actions-joaolopes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tarefa-github-actions-joaolopes/index.html",
+    "main.f855e6bc.css.map": "/tarefa-github-actions-joaolopes/static/css/main.f855e6bc.css.map",
+    "main.fb0e17b7.js.map": "/tarefa-github-actions-joaolopes/static/js/main.fb0e17b7.js.map",
+    "453.35549df2.chunk.js.map": "/tarefa-github-actions-joaolopes/static/js/453.35549df2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b99792a8.js"
+    "static/js/main.fb0e17b7.js"
   ]
 }
