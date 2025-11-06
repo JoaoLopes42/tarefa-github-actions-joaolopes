@@ -1,5 +1,6 @@
 {
   "name": "github-actions-joaolopes",
+  "homepage":"https://github.com/JoaoLopes42/tarefa-github-actions-joaolopes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
